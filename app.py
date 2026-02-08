@@ -557,11 +557,12 @@ def main():
                     🌐 TRANSLINGUAL - Neural Translation Matrix
                 </p>
                 <p style="color: rgba(255,255,255,0.7); font-size: 0.9rem;">
-                    © 2025 TransLingua Team • Powered by Google Gemini AI
+                    © 2026 TransLingua Team • Powered by Google Gemini AI
                 </p>
             </div>
         </div>
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main()

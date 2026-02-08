@@ -316,11 +316,6 @@ Solution: Ensure text is substantial enough for detection (>10 characters)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -331,41 +326,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/translingual/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/translingual/discussions)
-- **Email**: translingual.support@example.com
 
----
-
-<div align="center">
-
-**🌐 TransLingua - Breaking Language Barriers with AI**
-
-*Empowering global communication through intelligent neural translation*
-
-[![Star this repo](https://img.shields.io/github/stars/your-username/translingual?style=social)](https://github.com/your-username/translingual)
-[![Follow us](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-
----
-
-*Made with ❤️ by the TransLingua Team*
-
-</div>
-```
-
-This comprehensive README.md includes:
-
-- **Professional presentation** with badges and styling
-- **Complete setup instructions** with step-by-step guide
-- **Feature documentation** with use cases
-- **Technical architecture** overview
-- **UI/UX details** explaining the futuristic theme
-- **Troubleshooting section** for common issues
-- **Team information** as requested
-- **Contributing guidelines** for open source collaboration
-- **Roadmap** for future development
-- **Support information** for users
-
-The README is structured to be both informative for users and attractive for potential contributors or employers reviewing the project.

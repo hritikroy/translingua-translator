@@ -307,10 +307,10 @@ Solution: Ensure text is substantial enough for detection (>10 characters)
 
 | Role | Name | Specialization |
 |------|------|----------------|
-| **Lead Developer** | V C Premchand Yadav | Full-stack Development |
-| **AI Specialist** | Sembili Hemanth | Machine Learning & AI |
-| **UI/UX Designer** | Voruganti NandiVardhan Reddy | Interface Design |
-| **Backend Engineer** | Kanchetti Ajay | System Architecture |
+| **Lead Developer** | Hritik Raj | Full-stack Development |
+| **AI Specialist** | Mounika Vemala | Machine Learning & AI |
+| **UI/UX Designer** | Sannidhiraju Sai Vinay Sarma | Interface Design |
+| **Backend Engineer** | Sri Nandana Lahari Sivakavi | System Architecture |
 
 </div>
 
